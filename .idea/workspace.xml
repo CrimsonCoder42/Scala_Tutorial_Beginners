@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88295853-4aeb-4504-b0cc-074192d5d817" name="Changes" comment="closures">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Closures.scala" afterDir="false" />
+    <list default="true" id="88295853-4aeb-4504-b0cc-074192d5d817" name="Changes" comment="Currying">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Currying.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Closures.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Closures.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +51,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Closures">
+  <component name="RunManager" selected="Application.Currying">
     <configuration name="Closures" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Closures" />
       <module name="scala_YT_tutorial" />
@@ -58,15 +59,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Functions" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Functions" />
+    <configuration name="Currying" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Currying" />
       <module name="scala_YT_tutorial" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Getting_started" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Getting_started" />
+    <configuration name="Functions" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Functions" />
       <module name="scala_YT_tutorial" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Currying" />
         <item itemvalue="Application.Closures" />
         <item itemvalue="Application.PartiallyAppliedFunctions" />
         <item itemvalue="Application.HigherOrderFunctions" />
         <item itemvalue="Application.Functions" />
-        <item itemvalue="Application.Getting_started" />
       </list>
     </recent_temporary>
   </component>
@@ -107,7 +108,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660229221955</updated>
-      <workItem from="1660229223121" duration="15411000" />
+      <workItem from="1660229223121" duration="16803000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1660579701607</created>
@@ -151,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660584530911</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Currying">
+      <created>1660589592924</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1660589592924</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +182,7 @@
     <MESSAGE value="Higher Order Functions" />
     <MESSAGE value="Partially Applied Functions" />
     <MESSAGE value="closures" />
-    <option name="LAST_COMMIT_MESSAGE" value="closures" />
+    <MESSAGE value="Currying" />
+    <option name="LAST_COMMIT_MESSAGE" value="Currying" />
   </component>
 </project>

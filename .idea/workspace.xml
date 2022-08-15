@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88295853-4aeb-4504-b0cc-074192d5d817" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules/scala_YT_tutorial-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/scala_YT_tutorial-build.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+    <list default="true" id="88295853-4aeb-4504-b0cc-074192d5d817" name="Changes" comment="init commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/Getting_started.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Getting_started.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/Getting_started$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/Getting_started$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/Getting_started.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/Getting_started.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/Getting_started.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/Getting_started.tasty" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,8 +78,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660229221955</updated>
-      <workItem from="1660229223121" duration="8871000" />
+      <workItem from="1660229223121" duration="9555000" />
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1660579701607</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660579701607</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init commit">
+      <created>1660579710963</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660579710963</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,5 +110,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
 </project>

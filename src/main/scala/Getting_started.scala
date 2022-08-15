@@ -1,31 +1,27 @@
 object Getting_started extends App {
 
-  val age = 200;
+  object Math {
+    def add(x: Int, y: Int) : Int = x + y
 
-  age match {
-
-    case 20 => println(age);
-    case 18 => println(age);
-    case 19 => println(age);
-    case 21 => println(age);
-    case 30 => println(age);
-    case 40 => println(age);
-    case _ => println("default")
-
+    def square(x: Int) = x * x
   }
 
-  val result = age match {
 
-    case 20 => age;
-    case 18 => age;
-    case 19 => age;
-    case 21 => age;
-    case 30 => age;
-    case 40 => age;
-    case _ => age;
 
-  }
-  println(" result = " + result);
+
+  def subtract(x: Int, y: Int): Int = x - y
+
+  def divide(x: Int, y: Int): Int = x / y
+
+  def multiply(x: Int, y: Int): Int = x * y
+
+
+  println(Math.add(2,3))
+  println(Math.square(3))
+//  println(subtract(2,3))
+//  println(divide(2,3))
+//  println(multiply(2,3))
+
 
 }
 

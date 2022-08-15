@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88295853-4aeb-4504-b0cc-074192d5d817" name="Changes" comment="Arrays" />
+    <list default="true" id="88295853-4aeb-4504-b0cc-074192d5d817" name="Changes" comment="Arrays">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Arrays.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +50,14 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.String">
+  <component name="RunManager" selected="Application.Arrays">
+    <configuration name="Arrays" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays" />
+      <module name="scala_YT_tutorial" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Closures" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Closures" />
       <module name="scala_YT_tutorial" />
@@ -57,13 +67,6 @@
     </configuration>
     <configuration name="Currying" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Currying" />
-      <module name="scala_YT_tutorial" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HigherOrderFunctions" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="HigherOrderFunctions" />
       <module name="scala_YT_tutorial" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Arrays" />
         <item itemvalue="Application.String" />
         <item itemvalue="Application.Currying" />
         <item itemvalue="Application.Closures" />
         <item itemvalue="Application.PartiallyAppliedFunctions" />
-        <item itemvalue="Application.HigherOrderFunctions" />
       </list>
     </recent_temporary>
   </component>
@@ -104,7 +107,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660229221955</updated>
-      <workItem from="1660229223121" duration="17984000" />
+      <workItem from="1660229223121" duration="19809000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1660579701607</created>
@@ -169,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660593383691</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Arrays">
+      <created>1660593562279</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1660593562279</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

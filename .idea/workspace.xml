@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88295853-4aeb-4504-b0cc-074192d5d817" name="Changes" comment="Partially Applied Functions">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/PartiallyAppliedFunctions.scala" afterDir="false" />
+    <list default="true" id="88295853-4aeb-4504-b0cc-074192d5d817" name="Changes" comment="closures">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Closures.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,14 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PartiallyAppliedFunctions">
+  <component name="RunManager" selected="Application.Closures">
+    <configuration name="Closures" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Closures" />
+      <module name="scala_YT_tutorial" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Functions" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Functions" />
       <module name="scala_YT_tutorial" />
@@ -81,6 +88,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Closures" />
         <item itemvalue="Application.PartiallyAppliedFunctions" />
         <item itemvalue="Application.HigherOrderFunctions" />
         <item itemvalue="Application.Functions" />
@@ -99,7 +107,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660229221955</updated>
-      <workItem from="1660229223121" duration="13530000" />
+      <workItem from="1660229223121" duration="15411000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1660579701607</created>
@@ -136,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660582471809</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="closures">
+      <created>1660584530911</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1660584530911</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +173,7 @@
     <MESSAGE value="functions in Scala" />
     <MESSAGE value="Higher Order Functions" />
     <MESSAGE value="Partially Applied Functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Partially Applied Functions" />
+    <MESSAGE value="closures" />
+    <option name="LAST_COMMIT_MESSAGE" value="closures" />
   </component>
 </project>

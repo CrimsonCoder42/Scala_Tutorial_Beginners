@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88295853-4aeb-4504-b0cc-074192d5d817" name="Changes" comment="functions in Scala">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Functions.scala" afterDir="false" />
+    <list default="true" id="88295853-4aeb-4504-b0cc-074192d5d817" name="Changes" comment="Higher Order Functions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/HigherOrderFunctions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/HigherOrderFunctions.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Functions">
+  <component name="RunManager" selected="Application.HigherOrderFunctions">
     <configuration name="Functions" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Functions" />
       <module name="scala_YT_tutorial" />
@@ -65,8 +65,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HigherOrderFunctions" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="HigherOrderFunctions" />
+      <module name="scala_YT_tutorial" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HigherOrderFunctions" />
         <item itemvalue="Application.Functions" />
         <item itemvalue="Application.Getting_started" />
       </list>
@@ -83,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660229221955</updated>
-      <workItem from="1660229223121" duration="10279000" />
+      <workItem from="1660229223121" duration="11555000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1660579701607</created>
@@ -106,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660580643129</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Higher Order Functions">
+      <created>1660581297037</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660581297037</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +141,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
     <MESSAGE value="functions in Scala" />
-    <option name="LAST_COMMIT_MESSAGE" value="functions in Scala" />
+    <MESSAGE value="Higher Order Functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Higher Order Functions" />
   </component>
 </project>

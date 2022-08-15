@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88295853-4aeb-4504-b0cc-074192d5d817" name="Changes" comment="Higher Order Functions">
+    <list default="true" id="88295853-4aeb-4504-b0cc-074192d5d817" name="Changes" comment="Partially Applied Functions">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/PartiallyAppliedFunctions.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/HigherOrderFunctions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/HigherOrderFunctions.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.HigherOrderFunctions">
+  <component name="RunManager" selected="Application.PartiallyAppliedFunctions">
     <configuration name="Functions" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Functions" />
       <module name="scala_YT_tutorial" />
@@ -72,8 +72,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PartiallyAppliedFunctions" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="PartiallyAppliedFunctions" />
+      <module name="scala_YT_tutorial" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PartiallyAppliedFunctions" />
         <item itemvalue="Application.HigherOrderFunctions" />
         <item itemvalue="Application.Functions" />
         <item itemvalue="Application.Getting_started" />
@@ -91,7 +99,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660229221955</updated>
-      <workItem from="1660229223121" duration="11555000" />
+      <workItem from="1660229223121" duration="13530000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1660579701607</created>
@@ -121,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660581297037</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Partially Applied Functions">
+      <created>1660582471809</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1660582471809</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +157,7 @@
     <MESSAGE value="init commit" />
     <MESSAGE value="functions in Scala" />
     <MESSAGE value="Higher Order Functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Higher Order Functions" />
+    <MESSAGE value="Partially Applied Functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Partially Applied Functions" />
   </component>
 </project>

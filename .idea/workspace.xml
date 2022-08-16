@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88295853-4aeb-4504-b0cc-074192d5d817" name="Changes" comment="map and filter">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/MapAndFilter.scala" afterDir="false" />
+    <list default="true" id="88295853-4aeb-4504-b0cc-074192d5d817" name="Changes" comment="Reduce, fold, &amp; scan">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ReduceFoldScan.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MapAndFilter">
+  <component name="RunManager" selected="Application.ReduceFoldScan">
     <configuration name="MapAndFilter" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="MapAndFilter" />
       <module name="scala_YT_tutorial" />
@@ -72,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sets" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Sets" />
+    <configuration name="ReduceFoldScan" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ReduceFoldScan" />
       <module name="scala_YT_tutorial" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReduceFoldScan" />
         <item itemvalue="Application.MapAndFilter" />
         <item itemvalue="Application.Options" />
         <item itemvalue="Application.Tuples" />
         <item itemvalue="Application.Maps" />
-        <item itemvalue="Application.Sets" />
       </list>
     </recent_temporary>
   </component>
@@ -107,7 +107,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660229221955</updated>
-      <workItem from="1660229223121" duration="28720000" />
+      <workItem from="1660229223121" duration="29390000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1660579701607</created>
@@ -256,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660658227673</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Reduce, fold, &amp; scan">
+      <created>1660659753494</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1660659753494</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -288,6 +295,7 @@
     <MESSAGE value="Tuples" />
     <MESSAGE value="Options" />
     <MESSAGE value="map and filter" />
-    <option name="LAST_COMMIT_MESSAGE" value="map and filter" />
+    <MESSAGE value="Reduce, fold, &amp; scan" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reduce, fold, &amp; scan" />
   </component>
 </project>

@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88295853-4aeb-4504-b0cc-074192d5d817" name="Changes" comment="Lists">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Lists.scala" afterDir="false" />
+    <list default="true" id="88295853-4aeb-4504-b0cc-074192d5d817" name="Changes" comment="Sets">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Sets.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,16 +50,9 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lists">
+  <component name="RunManager" selected="Application.Sets">
     <configuration name="Arrays" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Arrays" />
-      <module name="scala_YT_tutorial" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Closures" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Closures" />
       <module name="scala_YT_tutorial" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,6 +72,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Sets" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Sets" />
+      <module name="scala_YT_tutorial" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="String" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="String" />
       <module name="scala_YT_tutorial" />
@@ -88,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sets" />
         <item itemvalue="Application.Lists" />
         <item itemvalue="Application.Arrays" />
         <item itemvalue="Application.String" />
         <item itemvalue="Application.Currying" />
-        <item itemvalue="Application.Closures" />
       </list>
     </recent_temporary>
   </component>
@@ -107,7 +107,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660229221955</updated>
-      <workItem from="1660229223121" duration="21793000" />
+      <workItem from="1660229223121" duration="23381000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1660579701607</created>
@@ -186,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660595756086</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Sets">
+      <created>1660598542461</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1660598542461</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,6 +220,7 @@
     <MESSAGE value="strings" />
     <MESSAGE value="Arrays" />
     <MESSAGE value="Lists" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lists" />
+    <MESSAGE value="Sets" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sets" />
   </component>
 </project>

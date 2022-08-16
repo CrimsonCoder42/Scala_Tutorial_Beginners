@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88295853-4aeb-4504-b0cc-074192d5d817" name="Changes" comment="Maps">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Maps.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="88295853-4aeb-4504-b0cc-074192d5d817" name="Changes" comment="Tuples" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,7 +104,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660229221955</updated>
-      <workItem from="1660229223121" duration="24490000" />
+      <workItem from="1660229223121" duration="25104000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1660579701607</created>
@@ -207,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660653940003</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Tuples">
+      <created>1660655373323</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1660655373323</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,6 +240,7 @@
     <MESSAGE value="Lists" />
     <MESSAGE value="Sets" />
     <MESSAGE value="Maps" />
-    <option name="LAST_COMMIT_MESSAGE" value="Maps" />
+    <MESSAGE value="Tuples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tuples" />
   </component>
 </project>

@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88295853-4aeb-4504-b0cc-074192d5d817" name="Changes" comment="Options" />
+    <list default="true" id="88295853-4aeb-4504-b0cc-074192d5d817" name="Changes" comment="Options">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Options.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,14 +50,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Tuples">
-    <configuration name="Arrays" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays" />
-      <module name="scala_YT_tutorial" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Options">
     <configuration name="Lists" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Lists" />
       <module name="scala_YT_tutorial" />
@@ -64,6 +60,13 @@
     </configuration>
     <configuration name="Maps" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Maps" />
+      <module name="scala_YT_tutorial" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Options" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Options" />
       <module name="scala_YT_tutorial" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Options" />
         <item itemvalue="Application.Tuples" />
         <item itemvalue="Application.Maps" />
         <item itemvalue="Application.Sets" />
         <item itemvalue="Application.Lists" />
-        <item itemvalue="Application.Arrays" />
       </list>
     </recent_temporary>
   </component>
@@ -104,7 +107,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660229221955</updated>
-      <workItem from="1660229223121" duration="26442000" />
+      <workItem from="1660229223121" duration="27075000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1660579701607</created>
@@ -239,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660657397311</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Options">
+      <created>1660657464809</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1660657464809</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

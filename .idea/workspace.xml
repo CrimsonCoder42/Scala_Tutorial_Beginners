@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88295853-4aeb-4504-b0cc-074192d5d817" name="Changes" comment="Class">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Class.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,16 +50,16 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ReduceFoldScan">
-    <configuration name="MapAndFilter" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="MapAndFilter" />
+  <component name="RunManager" selected="Application.Class">
+    <configuration name="Class" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Class" />
       <module name="scala_YT_tutorial" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maps" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Maps" />
+    <configuration name="MapAndFilter" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="MapAndFilter" />
       <module name="scala_YT_tutorial" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Class" />
         <item itemvalue="Application.ReduceFoldScan" />
         <item itemvalue="Application.MapAndFilter" />
         <item itemvalue="Application.Options" />
         <item itemvalue="Application.Tuples" />
-        <item itemvalue="Application.Maps" />
       </list>
     </recent_temporary>
   </component>
@@ -106,7 +107,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660229221955</updated>
-      <workItem from="1660229223121" duration="30937000" />
+      <workItem from="1660229223121" duration="32331000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1660579701607</created>
@@ -276,7 +277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660673712413</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Class">
+      <created>1660732514446</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1660732514446</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

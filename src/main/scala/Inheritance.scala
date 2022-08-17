@@ -1,0 +1,5 @@
+object Inheritance extends App{
+
+
+
+}
